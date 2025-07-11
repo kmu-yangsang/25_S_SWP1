@@ -1,6 +1,4 @@
-#my name is y
-
-20192367 	ysh
+ysh20192367
 
 kookmin Univ.SW.
 
